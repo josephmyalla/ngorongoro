@@ -19,9 +19,31 @@
         "padding_top": 20,
         "padding_bottom": 20
       }
+    },
+    "7a64f5aa-d331-4d9d-b940-38225570a0bf": {
+      "type": "announcement-bar",
+      "blocks": {
+        "sections--16154798817450__7a64f5aa-d331-4d9d-b940-38225570a0bf-16868449994261ce76-0": {
+          "type": "announcement",
+          "settings": {
+            "text": "Karibu Katika Duka letu",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "sections--16154798817450__7a64f5aa-d331-4d9d-b940-38225570a0bf-16868449994261ce76-0"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "show_line_separator": true,
+        "auto_rotate": false,
+        "change_slides_speed": 5
+      }
     }
   },
   "order": [
-    "header"
+    "header",
+    "7a64f5aa-d331-4d9d-b940-38225570a0bf"
   ]
 }
