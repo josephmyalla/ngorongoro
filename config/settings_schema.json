@@ -1,23 +1,9 @@
 [
-
   {
     "name": "theme_info",
     "theme_name": "Dawn",
     "theme_version": "10.0.0",
-    "theme_author": "Shopify"
-  },
-  {
-    "name": "t:settings_schema.logo.name",
-    "settings": [
-      {
-        "type": "image_picker",
-        "id": "logo",
-        "label": "t:settings_schema.logo.settings.logo_image.label"
-      }
-     
-     
-     ]
-   }
-
+    "theme_author": "Joseph Myalla"
+  }
 ]
 
